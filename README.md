@@ -27,5 +27,6 @@ How MLOps ensures models are production-ready and reliable.
 Challenges and future scope in Machine Learning.
 
 📺 Video Link
+https://drive.google.com/file/d/1m5d6F-bTTb8tfQiZ9lEDrFBm2YQ8ePAn/view?usp=sharing
 
 👉 Watch the Explanation Video
